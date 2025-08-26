@@ -208,7 +208,3 @@ Graphene のドキュメントをチェックし、[Graphene](https://docs.graph
 ## 参考サイト
 
 [Graphene-Python - Basic Tutorial](https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/)
-
-```
-
-```
